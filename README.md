@@ -7,19 +7,20 @@
 
 ## 2. Buatlah gambar diagram class dan dua buah objek dari class Person bernama Antor dan Riko!
 - Diagram Class
- ![diagramclass.png]
+
+ ![diagramclass](diagramclass.png)
 
 - Diagram Objek
 | Person | Nama | Jenis Kelamin | Umur |
 |:------ |:---- |:------------- |:----:|
-| Antor  | Antor| L             | 25   |
+| Anton  | Anton| L             | 25   |
 | Riko   | Riko | L             | 35   |
-Objek Antor dan Riko adalah instance dari class Person, yang dimana atribut seperti nama, jenis kelamin, dan umur di isi biodata mereka
+Objek Anton dan Riko adalah instance dari class Person, yang dimana atribut seperti nama, jenis kelamin, dan umur di isi biodata mereka
 
-## 3. uatlah gambar diagram objek AkunBank dengan instance method simpanUang, ambilUang dan cekSaldo
+## 3. Buatlah gambar diagram objek AkunBank dengan instance method simpanUang, ambilUang dan cekSaldo
 - Diagram Class
 
-  ![diagramAkunBank.png]
+  ![diagramclass](diagramAkunBank.png)
 
 - Diagram Objek
 | Akun saya : AkunBank |
@@ -32,7 +33,7 @@ Objek Antor dan Riko adalah instance dari class Person, yang dimana atribut sepe
 # LATIHAN 2
 ## 1. Mendeklarasikan class Person, dengan atribut Nama, JenisKelamin, Umur
 
-![Screenshot 2024-10-09 194722](https://github.com/user-attachments/assets/c7a71555-c265-4e71-bbb0-d737196d71c7)
+![Classperson](classperson1.png)
 
 Atribut nama, jenisKelamin, dan umur dideklarasikan sebagai bagian dari class Person. Setiap objek dari class ini akan memiliki ketiga atribut tersebut.
 - String nama akan menyimpan nama seseorang.
@@ -41,12 +42,12 @@ Atribut nama, jenisKelamin, dan umur dideklarasikan sebagai bagian dari class Pe
   
 ## 2. Buatlah dua buah objek dari class Person bernama Anton dan Riko
 
-![Screenshot 2024-10-09 194916](https://github.com/user-attachments/assets/4511a013-8712-4348-82a7-136116f96100)
+![Classperson](classperson2.png)
 
 Ketika kita membuat objek dari class Person, kita harus memberikan nilai untuk nama, jenisKelamin, dan umur. Nilai-nilai ini kemudian disimpan dalam atribut yang sesuai menggunakan keyword this.
 - this.nama = nama; berarti kita menetapkan nilai yang diterima sebagai argumen nama ke atribut nama milik objek yang sedang dibuat.
 
-![Screenshot 2024-10-09 195140](https://github.com/user-attachments/assets/a9820886-d560-4924-ada7-f47d194768b6)
+![Classperson](classperson3.png)
 
 - Ketika metode ini dipanggil, program akan mencetak nilai dari atribut nama, jenisKelamin, dan umur pada konsol.
 - Di dalam metode main, kita membuat dua objek dari class Person, yaitu anton dan riko.
@@ -56,7 +57,7 @@ Ketika kita membuat objek dari class Person, kita harus memberikan nilai untuk n
 
 # Hasil Output
 
-![Screenshot 2024-10-09 195431](https://github.com/user-attachments/assets/72ebcc1f-ac73-4390-a419-2e8d509a3933)
+![Hasiloutput](outputclassperson.png)
 Output ini menunjukkan bahwa atribut nama, jenisKelamin, dan umur dari masing-masing objek telah dicetak ke layar.
 
 # LATIHAN 3 
