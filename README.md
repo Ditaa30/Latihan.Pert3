@@ -63,12 +63,10 @@ Output ini menunjukkan bahwa atribut nama, jenisKelamin, dan umur dari masing-ma
 # LATIHAN 3 
 ## 1. Mendeklarasikan class AkunBank dengan instance method simpanUang, ambilUang dan cekSaldo
 ## 2. Buat objek AkunBank dan tetapkan nilai saldo awal Rp. 100000, kemudian panggil 3 method tersebut dan tampilkan proses berikut:
-![Screenshot 2024-10-09 201012](https://github.com/user-attachments/assets/87ca1eb4-1815-4cd6-8e4a-348592875b9f)
-
+![ContohOutput](soalakunbank.png)
 ## Jawaban Soal 1 dan 2
-![Screenshot 2024-10-09 195732](https://github.com/user-attachments/assets/7243ff33-9ee0-4db6-a3e2-a988a343ca43)
-![Screenshot 2024-10-09 195756](https://github.com/user-attachments/assets/5b612b17-3cf9-4786-bee7-4ca6bbf5416f)
-![Screenshot 2024-10-09 195804](https://github.com/user-attachments/assets/74334528-0380-4023-b2ce-61beac4e69ab)
+![AkunBank](AkunBank1.png)
+![AkunBank](AkunBank2.png)
 
 1. Class AkunBank:
    - Atribut saldo digunakan untuk menyimpan saldo dari akun bank. Constructor 
@@ -87,6 +85,6 @@ Output ini menunjukkan bahwa atribut nama, jenisKelamin, dan umur dari masing-ma
 
 # Hasil Output
 
-![Screenshot 2024-10-09 201053](https://github.com/user-attachments/assets/eb5e1027-083a-454f-a9d6-a64b0943b18c)
+![OutputAkunBank](outputAkunBank.png)
 
 - Program menampilkan pesan "Selamat Datang di Bank ABC" dan saldo awal Rp. 100000.
